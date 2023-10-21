@@ -8,5 +8,7 @@ namespace WebRepo.Models
 
         public string Name { get; set; }
         public int Age { get; set; }
+        public string adress { get; set; }
+
     }
 }
