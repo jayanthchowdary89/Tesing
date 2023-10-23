@@ -11,6 +11,7 @@ namespace WebRepo.Models
         public int Age { get; set; }
         [Required]
         public string adress { get; set; }
+        public string Gender { get; set; }
 
     }
 }
